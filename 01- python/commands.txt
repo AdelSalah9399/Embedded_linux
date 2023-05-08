@@ -1,0 +1,4 @@
+update pip:
+	C:\Users\Adel\AppData\Local\Programs\Python\Python311\python.exe -m pip install --upgrade pip
+- pip --version
+- pip install pyautogui 

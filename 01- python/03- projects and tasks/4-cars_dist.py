@@ -37,7 +37,7 @@ if brand =='Benz':
 	elif series =='G_class':
 		model=input("please enter the model [g63-g65] :")
 		print(Benz_dist[series][model])
-	if series =='s_class':
+	if series =='S_class':
 		model=input("please enter the model [s500-s600] :")
 		print(Benz_dist[series][model])
 elif brand =='BMW':
